@@ -2,7 +2,7 @@
 a tool to random generate password
 
 	Usage: pwdgener [args]
-\n"
+	
 	-m mode, default(-m D)
 	-l length, default(-l 6-12)
 	-o filename, output to filename, will not print on screen
